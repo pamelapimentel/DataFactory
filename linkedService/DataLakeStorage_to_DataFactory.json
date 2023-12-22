@@ -1,0 +1,12 @@
+{
+	"name": "DataLakeStorage_to_DataFactory",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://ppimentelstorage.dfs.core.windows.net/",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDIyQzZGN0Y2LTBFNTItNDdEMy1COEYxLUI4QjMxNjk1NDgyRV8xMjVhM2M0Yy00NzQ1LTRkZDktOGM0My05M2VjNjYzNjEzODgiDQp9"
+		}
+	}
+}

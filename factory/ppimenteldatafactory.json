@@ -1,0 +1,9 @@
+{
+	"name": "ppimenteldatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "35c04cc1-9bfd-4baa-8b9c-6a572a17d6bb",
+		"tenantId": "da30b6d2-8f76-41e9-99b7-3917c661a0a5"
+	}
+}
